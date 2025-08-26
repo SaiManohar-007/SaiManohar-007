@@ -7,7 +7,7 @@ I'm a passionate backend developer with solid hands-on experience in **Java** an
 My expertise lies in:
 
 ✨ Designing and implementing RESTful APIs. <br/>
-⚙️ Developing microservices architecture. <br/>
+ 
 💾 Working with various databases, including SQL and NoSQL. <br/>
 ✅ Ensuring code quality through testing and best practices.<br/>
 ☁️ Leveraging cloud technologies for deployment and scalability.<br/>
